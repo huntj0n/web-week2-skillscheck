@@ -54,7 +54,7 @@ function checkGroceryCount(arr){
     }
 }
 checkGroceryCount(groceries)
-
+ 
 
 //////////////////STEP 6////////////////////
 // Refresh the index.html page. You should now see the same thing you saw when you first loaded the page but you should now be able to add items to your grocery list with a dynamic total showing. If you double click on an item, it should remove that item
